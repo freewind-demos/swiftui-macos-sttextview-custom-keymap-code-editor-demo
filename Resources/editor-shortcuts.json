@@ -1,0 +1,54 @@
+{
+  "shortcuts": [
+    {
+      "action": "deleteLine",
+      "key": "y",
+      "modifiers": ["command"]
+    },
+    {
+      "action": "duplicateLine",
+      "key": "d",
+      "modifiers": ["command"]
+    },
+    {
+      "action": "insertLineBelow",
+      "key": "return",
+      "modifiers": ["shift"]
+    },
+    {
+      "action": "insertLineAbove",
+      "key": "return",
+      "modifiers": ["command", "option"]
+    },
+    {
+      "action": "joinLines",
+      "key": "j",
+      "modifiers": ["control", "shift"]
+    },
+    {
+      "action": "moveLineUp",
+      "key": "upArrow",
+      "modifiers": ["shift", "option"]
+    },
+    {
+      "action": "moveLineDown",
+      "key": "downArrow",
+      "modifiers": ["shift", "option"]
+    },
+    {
+      "action": "openFind",
+      "key": "f",
+      "modifiers": ["command"]
+    },
+    {
+      "action": "openReplace",
+      "key": "r",
+      "modifiers": ["command"]
+    },
+    {
+      "action": "jumpToLine",
+      "key": "g",
+      "modifiers": ["command"]
+    }
+  ]
+}
